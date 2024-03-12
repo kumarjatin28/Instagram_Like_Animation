@@ -24,6 +24,7 @@ body{
     border-radius: 10px;
     background-color: white;
     overflow: hidden;
+    text-align: center;
 }
 
 .container img{
@@ -34,7 +35,7 @@ body{
 }
 
 .container i{
-    color: white;
+    color: #FD1D1D;
     font-size: 70px;
     position: absolute;
     top: 50%;
